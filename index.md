@@ -4,32 +4,25 @@ Hello people! I am Aayush from Chicago! :)
 
 ### Programing
 
-I love programming in Python and I am starting to learn GitHub!
+I love programming in Python and I am starting to learn GitHub! This is my first Python code.
 
-```markdown
-Syntax highlighted code block
+```python
+import turtle
 
-# Header 1
-## Header 2
-### Header 3
+star = turtle.Turtle()
 
-- Bulleted
-- List
+for i in range(50):
+  star.forward(50)
+  star.forward(144) 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+turtle.done()
 ```
+For the full code, contact me! 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Hobbies
 
-### Jekyll Themes
+I enjoy playing cricket and basketball! I like solving Rubix cubes too when I'm bored! 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aawadkar/aawadkar.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Music I like
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I like listening to rap and I also enjoy rock! I don't like my dad's favourite songs :) No, I'm just kidding! He is "Daddy Cool!"
