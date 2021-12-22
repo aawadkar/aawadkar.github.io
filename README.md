@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Aayush's Webpage
 
-You can use the [editor on GitHub](https://github.com/aawadkar/aawadkar.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hello people! I am Aayush from Chicago! :)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Programing
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I love programming in Python and I am starting to learn GitHub!
 
 ```markdown
 Syntax highlighted code block
