@@ -1,5 +1,7 @@
 ## Welcome to Aayush's Webpage
 
+![Pic Of Me:](https://cricclubs.com/documentsRep/profilePics/5693f739-fc5e-40b4-bd55-e6015a929fd4.jpg)
+
 Hello people! I am Aayush from Chicago! :)
 
 ### Programing
