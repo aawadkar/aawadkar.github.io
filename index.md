@@ -1,6 +1,6 @@
 ## Welcome to Aayush's Webpage
 
-<img src="hhttps://cricclubs.com/documentsRep/profilePics/5693f739-fc5e-40b4-bd55-e6015a929fd4.jpg" width="50%">
+<img src="https://cricclubs.com/documentsRep/profilePics/5693f739-fc5e-40b4-bd55-e6015a929fd4.jpg" width="50%">
 
 Hello people! I am Aayush from Chicago! :)
 
